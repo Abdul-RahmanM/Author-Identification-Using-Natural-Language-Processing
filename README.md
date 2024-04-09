@@ -3,8 +3,12 @@
 ## What it is?
 This project uses NLP models to identify the person who most likely said a sentence. The functioning prototype uses data from my discord friends.
 
+## How was it made?
+For the demo below, I webscraped data from a discord group chat with friends and trained an NLP model to try to identify who said what!
+
 ## Test it out here!
 [DiscordNLP Website](http://armohammed.tech/discord-project-nlp/)
+
 
 ## Usage
 1. Create a `sample.json` file from text data from users and format it like `example.json`.
